@@ -28,5 +28,3 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dlehammer&show_icons=true&hide_border=true&theme=shadow_blue&hide=stars)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlehammer&layout=compact&theme=shadow_blue&hide_border=true)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=dlehammer&theme=flat)](https://github.com/dlehammer/github-profile-trophy)
