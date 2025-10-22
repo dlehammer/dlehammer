@@ -1,5 +1,9 @@
 ## Hi there 🧑‍💻
 
+> There are only two hard things in Computer Science: cache invalidation, naming things and off-by-one errors.
+
+— `null`
+
 <!--
 **dlehammer/dlehammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +21,8 @@ Here are some ideas to get you started:
 
 ### 🤓 Professional alias:
 
-- [@dleh-carecom](https://github.com/dleh-carecom) (2006 -> 2015).
 - [@deh-nine](https://github.com/deh-nine) (2015 -> present).
+- [@dleh-carecom](https://github.com/dleh-carecom) (2006 -> 2015).
 
 ### ⚡ Fun facts:
 
